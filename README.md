@@ -78,7 +78,9 @@ watermarker/
 ├── node_modules/
 ├── example-watermark.png
 ├── example.png
-└── index.js
+├── index.js
+├── LICENSE
+└── README.md
 ```
 
 You only need to place your PNG file in the same folder as `index.js`.
