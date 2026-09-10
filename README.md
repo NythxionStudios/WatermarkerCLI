@@ -9,7 +9,7 @@
                     O P E N - S O U R C E
 ```
 
-# Nythxion Open-Source - Watermarker
+# Nythxion Open-Source - Watermarker Terminal
 
 A simple Node.js tool for adding customizable watermarks to PNG images.
 
