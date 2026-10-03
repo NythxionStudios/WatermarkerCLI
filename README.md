@@ -6,6 +6,8 @@
 >
 > The CLI version remains available for historical purposes, but new features and bug fixes will primarily target the Desktop version.
 
+--------
+
 ```text
 ███╗   ██╗██╗   ██╗████████╗██╗  ██╗██╗  ██╗██╗ ██████╗ ███╗   ██╗
 ████╗  ██║╚██╗ ██╔╝╚══██╔══╝██║  ██║╚██╗██╔╝██║██╔═══██╗████╗  ██║
