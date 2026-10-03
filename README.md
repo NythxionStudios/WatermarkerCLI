@@ -1,3 +1,11 @@
+> ## Deprecated
+>
+> **Nythxion Watermarker CLI is no longer actively maintained.**
+>
+> Development has moved to the **Nythxion Watermarker Desktop** application, which provides the current and recommended way to use Watermarker.
+>
+> The CLI version remains available for historical purposes, but new features and bug fixes will primarily target the Desktop version.
+
 ```text
 ███╗   ██╗██╗   ██╗████████╗██╗  ██╗██╗  ██╗██╗ ██████╗ ███╗   ██╗
 ████╗  ██║╚██╗ ██╔╝╚══██╔══╝██║  ██║╚██╗██╔╝██║██╔═══██╗████╗  ██║
@@ -14,15 +22,6 @@
 A simple Node.js tool for adding customizable watermarks to PNG images.
 
 The tool automatically finds a PNG image in the project folder and creates a new `-watermark.png` version without modifying the original.
-
-
-> ## Deprecated
->
-> **Nythxion Watermarker CLI is no longer actively maintained.**
->
-> Development has moved to the **Nythxion Watermarker Desktop** application, which provides the current and recommended way to use Watermarker.
->
-> The CLI version remains available for historical purposes, but new features and bug fixes will primarily target the Desktop version.
 
 
 ## Features
