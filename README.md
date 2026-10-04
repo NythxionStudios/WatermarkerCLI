@@ -2,7 +2,7 @@
 >
 > **Nythxion Watermarker CLI is no longer actively maintained.**
 >
-> Development has moved to the **Nythxion Watermarker Desktop** application, which provides the current and recommended way to use Watermarker.
+> Development has moved to the **Nythxion Watermarker App** application, which provides the current and recommended way to use Watermarker.
 >
 > The CLI version remains available for historical purposes, but new features and bug fixes will primarily target the Desktop version.
 
