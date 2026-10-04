@@ -19,7 +19,7 @@
                     O P E N - S O U R C E
 ```
 
-Watermarker CLI
+# Watermarker CLI
 
 A simple Node.js tool for adding customizable watermarks to PNG images.
 
